@@ -57,18 +57,27 @@ Me chamo Ryan Tomaz Talaveira, tenho 16 anos e sou natural do Paraná. Atualment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
-###
-<h2 align="left">🛠️Projetos</h2>
-<div align="center">
+
+<h2 align="left">🛠️Projetos. Clique para vê-los</h2>
+<div align="left">
 <h3 align="left">Não responsivo</h3>
   <a href='https://rabbits-website.netlify.app'>
-    <img height="200" src="./images/rabbits.png" alt="image" />
+    <img height="80" src="./images/rabbits-certo.png" alt="image" />
   </a>
 <h3 align="left">Responsivo</h3>
   <a href='https://dev-point.netlify.app'>
-    <img height="200" src="./images/dev-point.png" alt="image" />
+    <img height="60" src="./images/dev-point-certo.png" alt="image" />
   </a>
 </div>
 
