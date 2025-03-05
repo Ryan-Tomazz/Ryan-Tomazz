@@ -69,7 +69,7 @@ Me chamo Ryan Tomaz Talaveira, tenho 16 anos e sou natural do Paraná. Atualment
 <br/>
 <br/>
 
-<h2 align="left">🛠️Projetos. Clique para vê-los</h2>
+<h2 align="left">🛠️Alguns Projetos. Clique para vê-los</h2>
 <div align="left">
 <h3 align="left">Não responsivo</h3>
   <a href='https://rabbits-website.netlify.app'>
