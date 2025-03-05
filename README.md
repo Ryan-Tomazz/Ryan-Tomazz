@@ -89,7 +89,7 @@ Me chamo Ryan Tomaz Talaveira, tenho 16 anos e sou natural do Paraná. Atualment
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="185" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Ryan-Tomazz&show_icons=true&theme=merko&locale=pt-br" 
   />
