@@ -7,13 +7,13 @@ Me chamo Ryan Tomaz Talaveira, tenho 16 anos e sou natural do Paraná. Atualment
 <p align="left">
     <a href="https://api.whatsapp.com/send/?phone=5544999707623&text&type=phone_number&app_absent=0">
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/meu telefone-green?style=for-the-badge&logo=phone&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/meu telefone-darkgreen?style=for-the-badge&logo=phone&logoColor=white"
             style="display: inline-block; width: 180px; height: auto;"
         />
     </a> 
     <a href="https://mail.google.com/mail/u/0/#all?compose=CllgCJlFlgqSBMmddVQPhFhGDXXXgwRfXCMBKSSjFxwhHspwGbZmRqXRSKQTQqtkRvRLmvvJzcL">
     <img 
-        src="https://custom-icon-badges.demolab.com/badge/-meu%20email-red?style=for-the-badge&logo=mention&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/-meu%20email-darkred?style=for-the-badge&logo=mention&logoColor=white"
         style="display: inline-block; width: 150px; height: auto;"
     />
 </a>
